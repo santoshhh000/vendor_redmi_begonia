@@ -829,6 +829,7 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/vendor/etc/voicecommand/training/ubmfile/supplement/6:$(TARGET_COPY_OUT_VENDOR)/etc/voicecommand/training/ubmfile/supplement/6 \
     vendor/redmi/begonia/proprietary/vendor/etc/voicecommand/training/ubmfile/supplement/7:$(TARGET_COPY_OUT_VENDOR)/etc/voicecommand/training/ubmfile/supplement/7 \
     vendor/redmi/begonia/proprietary/vendor/etc/voicecommand/training/ubmfile/supplement/8:$(TARGET_COPY_OUT_VENDOR)/etc/voicecommand/training/ubmfile/supplement/8 \
+    vendor/redmi/begonia/proprietary/vendor/firmware/wifi.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi.cfg \   
     vendor/redmi/begonia/proprietary/vendor/etc/voicecommand/training/ubmfile/supplement/9:$(TARGET_COPY_OUT_VENDOR)/etc/voicecommand/training/ubmfile/supplement/9 \
     vendor/redmi/begonia/proprietary/vendor/firmware/FT8719_G7_TestINI.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/FT8719_G7_TestINI.ini \
     vendor/redmi/begonia/proprietary/vendor/firmware/NT36xxx_MP_Setting_Criteria_5920.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/NT36xxx_MP_Setting_Criteria_5920.csv \
